@@ -29,7 +29,7 @@ This creates a real-time conversational loop.
 
 🛠️ Hardware Design
 Components Used:
-1.ESP32 (XIAO ESP32-S3)
+1.ESP32 
 2.I2S Microphone (INMP441)
 3.I2S Amplifier (MAX98357A)
 3.Speaker
